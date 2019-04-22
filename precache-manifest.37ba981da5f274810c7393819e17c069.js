@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d2915d175f4a8d2d043b6f9db4dd479",
+    "revision": "3e6bc16848971df173f0e7df81900a50",
     "url": "/happy-thoughts/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-thoughts/static/css/2.6e697513.chunk.css"
   },
   {
-    "revision": "14bfd63e95766ad13069",
-    "url": "/happy-thoughts/static/css/main.5a34e481.chunk.css"
+    "revision": "ebf3aff84eb5c0b2c099",
+    "url": "/happy-thoughts/static/css/main.b270f0d5.chunk.css"
   },
   {
     "revision": "df946426fffefbdfc7c3",
     "url": "/happy-thoughts/static/js/2.bd2458ce.chunk.js"
   },
   {
-    "revision": "14bfd63e95766ad13069",
-    "url": "/happy-thoughts/static/js/main.85f23f1a.chunk.js"
+    "revision": "ebf3aff84eb5c0b2c099",
+    "url": "/happy-thoughts/static/js/main.fc196a33.chunk.js"
   },
   {
     "revision": "b4e1c817acf8ef5d4f9f",
