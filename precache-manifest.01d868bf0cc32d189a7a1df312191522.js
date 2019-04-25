@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8778835e1e2139c10ab3edf730a69c4b",
+    "revision": "b23f2d9ec06565cd40fde5886f763836",
     "url": "/happy-thoughts/index.html"
   },
   {
-    "revision": "df946426fffefbdfc7c3",
+    "revision": "88783b8c1f9f5a9d3970",
     "url": "/happy-thoughts/static/css/2.6e697513.chunk.css"
   },
   {
-    "revision": "ebf3aff84eb5c0b2c099",
-    "url": "/happy-thoughts/static/css/main.b270f0d5.chunk.css"
+    "revision": "4962a47112375101bd48",
+    "url": "/happy-thoughts/static/css/main.02c2d8ae.chunk.css"
   },
   {
-    "revision": "df946426fffefbdfc7c3",
-    "url": "/happy-thoughts/static/js/2.bd2458ce.chunk.js"
+    "revision": "88783b8c1f9f5a9d3970",
+    "url": "/happy-thoughts/static/js/2.3513cf77.chunk.js"
   },
   {
-    "revision": "ebf3aff84eb5c0b2c099",
-    "url": "/happy-thoughts/static/js/main.fc196a33.chunk.js"
+    "revision": "4962a47112375101bd48",
+    "url": "/happy-thoughts/static/js/main.cd15e167.chunk.js"
   },
   {
     "revision": "b4e1c817acf8ef5d4f9f",
